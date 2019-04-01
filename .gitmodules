@@ -1,0 +1,3 @@
+[submodule "simple-login_backend"]
+	path = simple-login_backend
+	url = https://github.com/rabelirv/oauth-bridge-template
